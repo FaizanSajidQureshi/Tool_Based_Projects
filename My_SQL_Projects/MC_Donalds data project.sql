@@ -1,0 +1,1 @@
+SELECT * FROM mcdonalds.employees;
